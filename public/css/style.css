@@ -10,6 +10,12 @@ body {
   margin: 0;
 }
 
+.search {
+  text-decoration: underline 3px;
+  text-underline-offset: 8px;
+  color: #0282f9;
+}
+
 .navbar-down .logo-header {
   width: 60px;
   height: 100%;
@@ -22,7 +28,7 @@ body {
 }
 
 .nav-link {
-color: black;
+  color: black;
 }
 
 .bg-blue {
@@ -44,17 +50,18 @@ color: black;
 }
 
 .box-label {
-    padding: 5px 20px 5px;
+  padding: 5px 20px 5px;
 }
 
 .card-box {
   background: #222;
   border: none;
 }
+
 .card-img-top {
- object-fit: cover;
- aspect-ratio: 1/1;
- object-position: top;
+  object-fit: cover;
+  aspect-ratio: 1/1;
+  object-position: top;
 }
 
 /*FOOTER*/
@@ -85,10 +92,14 @@ color: black;
   align-self: center;
 }
 
+.end-footer .text-follow-us {
+  color: #0282f9;
+}
+
 .icon {
   width: 55px;
 }
 
 .sign-up-now {
-border:1px solid #0282f9;
+  border: 1px solid #0282f9;
 }

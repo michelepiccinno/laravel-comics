@@ -50,7 +50,11 @@
                         <a class="nav-link" href="#">SHOP</a>
                     </li>
                 </ul>
-                <h4 class="text-black">Search<i class="fa-solid fa-magnifying-glass"></i></h4>
+                <h4 class="search">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <span class="text-black">Search <i class="fa-solid fa-magnifying-glass d-inline"></i>
+                    </span>
+                </h4>
             </nav>
         </div>
     </div>

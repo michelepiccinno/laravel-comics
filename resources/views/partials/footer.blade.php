@@ -80,10 +80,10 @@
     <div class="end-footer">
         <div class="container justify-content-between pt-4 pb-4 d-flex">
             <button class="btn text-white">
-                <h5 class="sign-up-now p-3">SIGN-UP NOW</h5>
+                <h5 class="sign-up-now p-3 fw-bold">SIGN-UP NOW</h5>
             </button>
             <div class="d-flex gap-3">
-                <h4 class="text-info d-flex align-items-center w-100">FOLLOW US</h4>
+                <h4 class="text-follow-us d-flex align-items-center w-100 fw-bold">FOLLOW US</h4>
                 <img src="/imgs/footer-facebook.png" alt="">
                 <img src="/imgs/footer-twitter.png" alt="">
                 <img src="/imgs/footer-youtube.png" alt="">
