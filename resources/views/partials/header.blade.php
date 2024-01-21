@@ -1,4 +1,3 @@
-<header>
     <!-- TOP NAVBAR -->
     <div class="bg-blue">
         <div class="container">
@@ -54,4 +53,3 @@
             </nav>
         </div>
     </div>
-</header>

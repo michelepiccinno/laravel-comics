@@ -25,7 +25,7 @@
         </div>
     </div>
 
-    <div class="container text-center">
+    <div class="container text-center mb-3">
         <div class="box-label bg-blue d-inline-block">
             <h3 class="m-0">LOAD MORE</h3>
         </div>
