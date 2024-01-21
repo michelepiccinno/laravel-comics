@@ -3,7 +3,7 @@
         <div class="container">
             <nav class="navbar navbar-top">
                 <ul class="nav text-white ms-auto">
-                    <li class="ps-5">DC POWER VISA</li>
+                    <li class="ps-5">DC POWER VISA<i class="fa-regular fa-registered"></i></li>
                     <li class="ps-5">ADDITIONAL DC SITES</li>
                 </ul>
             </nav>
@@ -18,9 +18,9 @@
                     <img class="logo-header" src="{{ asset('/imgs/dc-logo.png') }}" alt="DC LOGO" width="30"
                         height="24">
                 </a>
-                <ul class="nav nav-pills">
+                <ul class="nav nav-pills fw-bold">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">CHARACTERS</a>
+                        <a class="nav-link" href="#">CHARACTERS</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">COMICS</a>
@@ -50,6 +50,7 @@
                         <a class="nav-link" href="#">SHOP</a>
                     </li>
                 </ul>
+                <h4 class="text-black">Search<i class="fa-solid fa-magnifying-glass"></i></h4>
             </nav>
         </div>
     </div>
